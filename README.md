@@ -3,7 +3,7 @@ Personal portfolio repository showcasing my skills, projects, and contributions.
 
 # About Me
 
-Hi! I'm **N Abiram Sekar**, an aspiring Electronics and Communication Engineering student with a passion for technology and problem-solving.
+Hi! I'm **Abiram**, an aspiring Electronics and Communication Engineering student with a passion for technology and problem-solving.
 
 - Recently graduated **B.Tech in ECE** (Narayana Engineering College, Nellore, CGPA: 7.5).  
 - Experienced in **Web Development** (Laravel, PHP, JavaScript, Bootstrap), **Python**, **Java**, and **C**.  
